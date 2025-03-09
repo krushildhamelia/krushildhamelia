@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ![Krushil Dhamelia](https://img.shields.io/badge/Krushil-Dhamelia-orange), and a Software Engineer at Pirimid Fintech and been in the tech industry since January, 2017. I'm from India and working as FullStack Developer since then.
+I'm ![Krushil Dhamelia](https://img.shields.io/badge/Krushil-Dhamelia-orange), and a Software Engineer at TS Imagine Inc, Montreal, Quebec, Canada and been in the tech industry since January, 2017. I'm from India and working as FullStack Developer since then.
 
 I love automating the stuffs that I do with the web daily and have a good amount of automation done for my personal use-cases. Also have been building cool workflows for the business improvement and simplifying the daily process for various scenario.
 
